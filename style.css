@@ -1,0 +1,29 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+background-color:#000000;
+}
+p{
+  color: #f2fc92;
+  font-size: 80px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin:30px;
+}
+.conten1{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  }
+.conten1 img{
+  height: 100px;
+}
+.pastel{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  }
+.pastel img{
+  height: 400px;
+}
